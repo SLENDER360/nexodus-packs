@@ -5,6 +5,11 @@
                       "Code":  "OPTI1",
                       "Name":  "Nexodus Test Optis",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-Optis-1-0-5-6003300913a6-0/manifest.json"
+                  },
+                  {
+                      "Code":  "OP11",
+                      "Name":  "Nexodus Test Pack",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-nexodus-test-1-0-3-bd03eed15c0b-0/manifest.json"
                   }
               ]
 }
