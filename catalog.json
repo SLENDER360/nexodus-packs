@@ -25,6 +25,11 @@
                       "Code":  "WAR",
                       "Name":  "TestWar",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-testwar-1-0-2-97c3ca6ee72b-0/manifest.json"
+                  },
+                  {
+                      "Code":  "VANI",
+                      "Name":  "TestWar",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-testwar-1-37e15e6de139-0/manifest.json"
                   }
               ]
 }
