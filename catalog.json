@@ -15,6 +15,11 @@
                       "Code":  "FORG",
                       "Name":  "NexodusForg",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-nexodus-test-1-0-5-af26121f5e20-0/manifest.json"
+                  },
+                  {
+                      "Code":  "WEBO1",
+                      "Name":  "V2 Pack",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-Nexsoul-2-0-0-c7b76b995af6-0/manifest.json"
                   }
               ]
 }
