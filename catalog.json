@@ -35,6 +35,11 @@
                       "Code":  "VAN",
                       "Name":  "TestVan1",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-testvan-1-1-4f22ec61347d-0/manifest.json"
+                  },
+                  {
+                      "Code":  "V2",
+                      "Name":  "V2",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-nexoul-1-1-c60a3655be0c-0/manifest.json"
                   }
               ]
 }
