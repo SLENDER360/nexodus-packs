@@ -40,6 +40,11 @@
                       "Code":  "V2",
                       "Name":  "V2",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-nexoul-1-1-c60a3655be0c-0/manifest.json"
+                  },
+                  {
+                      "Code":  "V1ESSES",
+                      "Name":  "V2esses",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-nexoul-1-2-53d849a1398d-0/manifest.json"
                   }
               ]
 }
