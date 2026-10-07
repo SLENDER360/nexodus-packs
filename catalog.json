@@ -63,7 +63,7 @@
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor14n-1-92b15071f5d1-0/manifest.json",
                       "Kind":  "Flash",
                       "Id":  "armor14n",
-                      "Retired":  false
+                      "Retired":  true
                   }
               ]
 }
