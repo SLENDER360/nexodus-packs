@@ -45,6 +45,14 @@
                       "Code":  "V1ESSES",
                       "Name":  "V3esses1",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-nexoul-1-3-fcfccb79b352-0/manifest.json"
+                  },
+                  {
+                      "Code":  "ARMOR",
+                      "Name":  "Armor Mayhem LAN",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor-mayhem-0-16-77e91d4668b6-0/manifest.json",
+                      "Kind":  "Flash",
+                      "Id":  "armor-mayhem",
+                      "Retired":  false
                   }
               ]
 }
