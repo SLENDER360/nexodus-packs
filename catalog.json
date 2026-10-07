@@ -72,6 +72,14 @@
                       "Kind":  "Flash",
                       "Id":  "armor-mayhem",
                       "Retired":  true
+                  },
+                  {
+                      "Code":  "ARMORNEX",
+                      "Name":  "Armor",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-arm-1-3-512f80276cf4-0/manifest.json",
+                      "Kind":  "Flash",
+                      "Id":  "arm",
+                      "Retired":  false
                   }
               ]
 }
