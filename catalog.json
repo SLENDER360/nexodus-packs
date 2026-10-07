@@ -71,7 +71,7 @@
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor-mayhem-0-16-2-252f7fd8f394-0/manifest.json",
                       "Kind":  "Flash",
                       "Id":  "armor-mayhem",
-                      "Retired":  false
+                      "Retired":  true
                   }
               ]
 }
