@@ -59,10 +59,10 @@
                   },
                   {
                       "Code":  "ARMOR-LAN",
-                      "Name":  "Armor Mayhem LAN",
-                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor-mayhem-0-16-77e91d4668b6-0/manifest.json",
+                      "Name":  "Arm",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor14n-1-92b15071f5d1-0/manifest.json",
                       "Kind":  "Flash",
-                      "Id":  "armor-mayhem",
+                      "Id":  "armor14n",
                       "Retired":  false
                   }
               ]
