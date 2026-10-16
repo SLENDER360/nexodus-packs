@@ -66,19 +66,19 @@
                       "Retired":  true
                   },
                   {
-                      "Code":  "ARMOR14N",
-                      "Name":  "Armor Mayhem LAN",
-                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor-mayhem-0-16-2-252f7fd8f394-0/manifest.json",
-                      "Kind":  "Flash",
-                      "Id":  "armor-mayhem",
-                      "Retired":  true
-                  },
-                  {
                       "Code":  "ARMORNEX",
                       "Name":  "Armor",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-arm-1-3-512f80276cf4-0/manifest.json",
                       "Kind":  "Flash",
                       "Id":  "arm",
+                      "Retired":  false
+                  },
+                  {
+                      "Code":  "ARMOR14N",
+                      "Name":  "ARLA",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-arla-0-2-80ff38f094ea-0/manifest.json",
+                      "Kind":  "Flash",
+                      "Id":  "arla",
                       "Retired":  false
                   }
               ]
