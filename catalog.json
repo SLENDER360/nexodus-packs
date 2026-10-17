@@ -83,10 +83,10 @@
                   },
                   {
                       "Code":  "NEXOUL",
-                      "Name":  "Nexoul",
-                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-NEXOUL-1-0-0-45723a317495-0/manifest.json",
+                      "Name":  "NexoulS",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-NexoulServer-1-1-0-35262e0d2a6e-0/manifest.json",
                       "Kind":  null,
-                      "Id":  "NEXOUL",
+                      "Id":  "NexoulServer",
                       "Retired":  false
                   }
               ]
