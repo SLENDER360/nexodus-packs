@@ -80,6 +80,14 @@
                       "Kind":  "Flash",
                       "Id":  "arla",
                       "Retired":  false
+                  },
+                  {
+                      "Code":  "NEXOUL",
+                      "Name":  "Nexoul",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-NEXOUL-1-0-0-45723a317495-0/manifest.json",
+                      "Kind":  null,
+                      "Id":  "NEXOUL",
+                      "Retired":  false
                   }
               ]
 }
