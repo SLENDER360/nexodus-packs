@@ -79,7 +79,7 @@
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-arla-0-2-80ff38f094ea-0/manifest.json",
                       "Kind":  "Flash",
                       "Id":  "arla",
-                      "Retired":  false
+                      "Retired":  true
                   },
                   {
                       "Code":  "NEXODUS",
