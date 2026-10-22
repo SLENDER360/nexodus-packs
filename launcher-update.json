@@ -1,6 +1,6 @@
 {
-    "InstallerUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/launcher-0.28.1/NexodusSetup.exe",
-    "Version":  "0.28.1",
-    "Size":  3141632,
-    "Sha256":  "e5dda045ed3bad328b233111b4fa811de1c94dfa1d1f2c95579ee51d7f7f0cea"
+    "InstallerUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/launcher-0.29.1/NexodusSetup.exe",
+    "Version":  "0.29.1",
+    "Size":  3161088,
+    "Sha256":  "db8fad9179e55ae09dea26917737c199432249a8648aec60c0089833bc993357"
 }
