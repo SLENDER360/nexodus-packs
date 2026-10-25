@@ -82,19 +82,19 @@
                       "Retired":  false
                   },
                   {
-                      "Code":  "ARMOR14N",
-                      "Name":  "armor14n",
-                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor14n-0-19-f720a334be1a-0/manifest.json",
-                      "Kind":  "Flash",
-                      "Id":  "armor14n",
-                      "Retired":  false
-                  },
-                  {
                       "Code":  "NEXOUL",
                       "Name":  "NexoulS",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-NexoulServer-1-8-0-572b14c42301-0/manifest.json",
                       "Kind":  null,
                       "Id":  "NexoulServer",
+                      "Retired":  false
+                  },
+                  {
+                      "Code":  "ARMOR14N",
+                      "Name":  "Arm14n",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-arm14n-0-18-01bb595f4bd8-0/manifest.json",
+                      "Kind":  "Flash",
+                      "Id":  "arm14n",
                       "Retired":  false
                   }
               ]
