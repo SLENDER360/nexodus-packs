@@ -95,7 +95,7 @@
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-arm14n-0-18-01bb595f4bd8-0/manifest.json",
                       "Kind":  "Flash",
                       "Id":  "arm14n",
-                      "Retired":  false
+                      "Retired":  true
                   }
               ]
 }
