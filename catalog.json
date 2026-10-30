@@ -96,6 +96,14 @@
                       "Kind":  "Flash",
                       "Id":  "armor14n",
                       "Retired":  true
+                  },
+                  {
+                      "Code":  "14NA",
+                      "Name":  "armor14n",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor14n-0-25-08c7971a74ec-0/manifest.json",
+                      "Kind":  "Flash",
+                      "Id":  "armor14n",
+                      "Retired":  false
                   }
               ]
 }
