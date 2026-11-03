@@ -104,6 +104,14 @@
                       "Kind":  "Flash",
                       "Id":  "armor14n",
                       "Retired":  false
+                  },
+                  {
+                      "Code":  "ASHBORNE",
+                      "Name":  "Ashborne",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-Ashborne-1-0-94931b037a8c-0/manifest.json",
+                      "Kind":  null,
+                      "Id":  "Ashborne",
+                      "Retired":  false
                   }
               ]
 }
