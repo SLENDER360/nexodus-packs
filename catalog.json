@@ -108,10 +108,10 @@
                   {
                       "Code":  "ARMOR14N",
                       "Name":  "armor14n",
-                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor14n-0-28-310cf3905de7-0/manifest.json",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor14n-0-28-af73a4693d31-0/manifest.json",
                       "Kind":  "Flash",
                       "Id":  "armor14n",
-                      "Retired":  true
+                      "Retired":  false
                   }
               ]
 }
