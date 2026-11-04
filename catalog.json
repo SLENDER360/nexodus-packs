@@ -98,19 +98,19 @@
                       "Retired":  false
                   },
                   {
-                      "Code":  "ARMOR14N",
-                      "Name":  "armor14n",
-                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor14n-0-26-ee61e4981477-0/manifest.json",
-                      "Kind":  "Flash",
-                      "Id":  "armor14n",
-                      "Retired":  false
-                  },
-                  {
                       "Code":  "ASHBORNE",
                       "Name":  "Ashborne",
                       "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-Ashborne-1-0-94931b037a8c-0/manifest.json",
                       "Kind":  null,
                       "Id":  "Ashborne",
+                      "Retired":  false
+                  },
+                  {
+                      "Code":  "ARMOR14N",
+                      "Name":  "armor14n",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-armor14n-0-28-310cf3905de7-0/manifest.json",
+                      "Kind":  "Flash",
+                      "Id":  "armor14n",
                       "Retired":  false
                   }
               ]
