@@ -112,6 +112,14 @@
                       "Kind":  null,
                       "Id":  "Ashborne",
                       "Retired":  false
+                  },
+                  {
+                      "Code":  "ARM14N",
+                      "Name":  "arm14n",
+                      "ManifestUrl":  "https://github.com/SLENDER360/nexodus-packs/releases/download/nex-arm14n-0-29-1-7056cd8d1269-0/manifest.json",
+                      "Kind":  "Flash",
+                      "Id":  "arm14n",
+                      "Retired":  false
                   }
               ]
 }
